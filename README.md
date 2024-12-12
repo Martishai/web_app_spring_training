@@ -9,3 +9,4 @@ The project requires a JDK 21 (recommended distribution is Temurin from [Adoptiu
 From there, simply use the Maven wrapper to launch all tests (unit tests & integration tests).
 
 `./mvnw verify`
+
